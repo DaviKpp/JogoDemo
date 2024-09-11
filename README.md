@@ -1,3 +1,3 @@
 Instale o GODOT \
 Extraia os arquivos daqui em uma pasta \
-Abra o projeto no godot e rode \
+Abra o projeto no godot e rode 
